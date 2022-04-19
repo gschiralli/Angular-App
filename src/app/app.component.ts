@@ -1,3 +1,14 @@
+/*********************************************************************************
+*  WEB422 – Assignment 5/6
+
+*  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part of this
+*  assignment has been copied manually or electronically from any other source (including web sites) or 
+*  distributed to other students.
+* 
+*  Name: Gianni Schiralli Student ID: 161166194 Date: 2022/04/18
+*
+********************************************************************************/
+
 import { Component, OnInit } from '@angular/core';
 import { NavigationStart, Router } from '@angular/router';
 import { AuthService } from './auth.service';
